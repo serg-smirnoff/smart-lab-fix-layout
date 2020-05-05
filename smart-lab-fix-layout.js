@@ -15,7 +15,6 @@ $(document).ready(function(){
   $('#content_box').css({"width":"70%", "margin-left": "auto", "margin-right": "auto", "float": "unset"});
   $('#header .h1 a').css({"font-size": "29px", "line-height": "32px"});
   $('.topic .content img').css("width","98%");
-  $('.content').css("display","none");
   $('.fastlinks ol li:before').css("content","unset");
   $('.topic .voting').css('display','none');
 })
